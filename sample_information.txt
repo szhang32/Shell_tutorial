@@ -1,4 +1,4 @@
-library	id	histone_mark	genotype	date
+library_id	sample_name	histone_mark	genotype	date
 project1_aa	H3K27me3_wt_rep1	H3K27me3	wt	20240120
 project1_ab	H3K27me3_wt_rep2	H3K27me3	wt	20240120
 project1_ac	H3K27me3_wt_rep3	H3K27me3	wt	20240120
